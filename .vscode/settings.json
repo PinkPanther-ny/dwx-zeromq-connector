@@ -1,0 +1,7 @@
+{
+    "mql_tools.Metaeditor.Metaeditor4Dir": "C:\\Program Files (x86)\\TMGM MT4 Terminal\\metaeditor.exe",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.mq4": "cpp"
+    }
+}
